@@ -1,6 +1,6 @@
 # Data Analytics
 ### HardSkills
-Python, Sql server, Power Bi, Github
+Python, Sql server, Power Bi, Github, Docker
 ### Educacion
 ingenieria en sistemas, Universidad Catolica Santo Domingo (Diciembre 2024)
 
