@@ -2,12 +2,12 @@
 ### HardSkills
 Python, Sql server, Power Bi, Github, Docker
 ### Educacion
-- ingenieria en sistemas|Universidad Catolica Santo Domingo (2024)
-- Python|Hola Mundo 
-- Git + GitHub|Hola Mundo 
+- ingenieria en sistemasUniversidad Catolica Santo Domingo (2024)
+- Python/Hola Mundo 
+- Git + GitHubHola Mundo 
 - Docker, Hola Mundo
-- Prompt engineering|Hola Mundo (Actual)
-- Power Bi|Universidad Autonoma Santo Domingo
-- Sql server|Universidad Autonoma Santo Domingo
+- Prompt engineeringHola Mundo (Actual)
+- Power BiUniversidad Autonoma Santo Domingo
+- Sql serverUniversidad Autonoma Santo Domingo
 
 ### Projectos Personales 
